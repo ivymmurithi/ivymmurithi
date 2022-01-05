@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[To-Do-List](https://github.com/ivymmurithi/to-do-list)**
+- 🔭 I’m currently working on **[Quotes App](https://github.com/ivymmurithi/sema-quotes.git)**
 
 - 🌱 I’m currently learning **Angular.**
 
 - 🌱 I’m currently learning **TypeScript.**
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **Angular Projects**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/ivymmurithi)**
 
@@ -24,15 +24,16 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://figma.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/figma.png"/></a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://jQuery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a> 
+    <a  href="https://jQuery.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/37/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+      <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/38/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/></a>
 </p>
 
 
