@@ -3,18 +3,16 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ivy Murithi</h1>
-<h3 align="center">I'm currently a Software Development student from Nairobi, Kenya.</h3>
+<h3 align="center">I'm currently a Software Developer from Nairobi, Kenya.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Quotes App](https://github.com/ivymmurithi/sema-quotes.git)**
 
-- 🌱 I’m currently learning **Flask.**
+- 🌱 I currently use **Python.**
 
-- 🌱 I’m currently learning **Python.**
-
-- 🌱 I’m currently learning **django.**
+- 🌱 I currently use **django.**
 
 - 👯 I’m looking to collaborate on **Angular Projects**
 
@@ -22,7 +20,7 @@
 
 - 📫 How to reach me **ivymurithi@gmail.com**
 
-- ⚡ Fun fact **I'm a PUBG Mobile gamer and i love mystery thriller novels**
+- ⚡ Fun fact **I am a PUBG Mobile gamer, i love mystery thriller novels and i love cycling**
 
 ## 🚀 Languages and Tools:
 
